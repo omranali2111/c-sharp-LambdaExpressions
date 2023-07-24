@@ -1,0 +1,15 @@
+C:\Users\ict\Desktop\code-TRA\c-sharp-LambdaExpressions\c-sharp-LambdaExpressions\bin\Debug\net6.0\c-sharp-LambdaExpressions.exe
+C:\Users\ict\Desktop\code-TRA\c-sharp-LambdaExpressions\c-sharp-LambdaExpressions\bin\Debug\net6.0\c-sharp-LambdaExpressions.deps.json
+C:\Users\ict\Desktop\code-TRA\c-sharp-LambdaExpressions\c-sharp-LambdaExpressions\bin\Debug\net6.0\c-sharp-LambdaExpressions.runtimeconfig.json
+C:\Users\ict\Desktop\code-TRA\c-sharp-LambdaExpressions\c-sharp-LambdaExpressions\bin\Debug\net6.0\c-sharp-LambdaExpressions.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-LambdaExpressions\c-sharp-LambdaExpressions\bin\Debug\net6.0\c-sharp-LambdaExpressions.pdb
+C:\Users\ict\Desktop\code-TRA\c-sharp-LambdaExpressions\c-sharp-LambdaExpressions\obj\Debug\net6.0\c-sharp-LambdaExpressions.csproj.AssemblyReference.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-LambdaExpressions\c-sharp-LambdaExpressions\obj\Debug\net6.0\c-sharp-LambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ict\Desktop\code-TRA\c-sharp-LambdaExpressions\c-sharp-LambdaExpressions\obj\Debug\net6.0\c-sharp-LambdaExpressions.AssemblyInfoInputs.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-LambdaExpressions\c-sharp-LambdaExpressions\obj\Debug\net6.0\c-sharp-LambdaExpressions.AssemblyInfo.cs
+C:\Users\ict\Desktop\code-TRA\c-sharp-LambdaExpressions\c-sharp-LambdaExpressions\obj\Debug\net6.0\c-sharp-LambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-LambdaExpressions\c-sharp-LambdaExpressions\obj\Debug\net6.0\c-sharp-LambdaExpressions.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-LambdaExpressions\c-sharp-LambdaExpressions\obj\Debug\net6.0\refint\c-sharp-LambdaExpressions.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-LambdaExpressions\c-sharp-LambdaExpressions\obj\Debug\net6.0\c-sharp-LambdaExpressions.pdb
+C:\Users\ict\Desktop\code-TRA\c-sharp-LambdaExpressions\c-sharp-LambdaExpressions\obj\Debug\net6.0\c-sharp-LambdaExpressions.genruntimeconfig.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-LambdaExpressions\c-sharp-LambdaExpressions\obj\Debug\net6.0\ref\c-sharp-LambdaExpressions.dll
