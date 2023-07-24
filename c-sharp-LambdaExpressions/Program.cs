@@ -42,7 +42,8 @@ internal class Program
             new Person("Muqeet", 20, "Male", "sohar"),
             new Person("Sehar", 18, "Female", "muscat")};
 
-        List<Person> Persons = list.Where(x => x.Age > 25).ToList();
+        //List<Person> Persons = list.Where(x => x.Age > 25).ToList();
+        List<Person> Persons = list.OrderBy(x => x.Name).ToList();
         PrintPersonsData(Persons);
 
 
