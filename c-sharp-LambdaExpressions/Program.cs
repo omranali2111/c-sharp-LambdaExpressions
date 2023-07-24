@@ -43,8 +43,19 @@ internal class Program
             new Person("Sehar", 18, "Female", "muscat")};
 
         //List<Person> Persons = list.Where(x => x.Age > 25).ToList();
-        List<Person> Persons = list.OrderBy(x => x.Name).ToList();
-        PrintPersonsData(Persons);
+        //List<Person> Persons = list.OrderBy(x => x.Name).ToList();
+       // PrintPersonsData(Persons);
+
+        List<string> namesInMuscat = list
+            .Where(x => x.Address.ToLower() == "muscat")
+            .OrderBy(x => x.Name)
+            .Select(x => x.Name)
+            .ToList();
+
+        foreach (string name in namesInMuscat)
+        {
+            Console.WriteLine(name);
+        }
 
 
     }
