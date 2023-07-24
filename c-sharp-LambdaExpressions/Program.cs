@@ -11,9 +11,17 @@
         Func<int,int> func = (x) => x * x;
         foreach (int x in numbers)
         {
-            Console.WriteLine(func(x));
+            Console.Write(func(x)+" ");
         }
-       
+        Console.WriteLine();
+        ////////
+        ///
+        MathOperation add1 = Add;
+        Console.WriteLine(Add(2,4));
+
+        MathOperation multiply1 = multiply;
+        Console.WriteLine(multiply(2, 4));
+
 
     }
 
@@ -31,5 +39,10 @@
         }
         Console.WriteLine();
     }
+    public delegate int MathOperation(int a,int b);
+
+    static int Add(int a, int b) => a + b;
+   static int multiply(int a,int b) => a *b;
+     
     
 }
