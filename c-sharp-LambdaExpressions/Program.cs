@@ -56,7 +56,13 @@ internal class Program
         {
             Console.WriteLine(name);
         }
-
+        //Lazy loading 
+        IEnumerable<Person> persons = list.Where(x => x.Address == "karachi");
+        list.Add(new Person("ammar", 20, "Male", "karachi"));
+        foreach (var person in persons)
+        {
+            Console.WriteLine(person.Name);
+        }
 
     }
       
